@@ -1,4 +1,3 @@
-# Solgat-Privacy
 # Privacy Policy
 
 **Last updated: November 8, 2026**
