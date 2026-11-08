@@ -1,0 +1,2 @@
+# Solgat-Privacy
+Privacy Policy
